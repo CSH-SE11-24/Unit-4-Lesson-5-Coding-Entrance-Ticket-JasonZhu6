@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: grey;
+}
+
+div {
+  background-color: black;
+}
+
+a {
+  color: orange;
+}
+
+p {
+  color: white;
+}
+
+#singleP {
+  text-align: center;
+}
+
+h2 {
+  background-color: black;
+  color: yellow;
+}
+
+.cats {
+  width: 40%;
+}
